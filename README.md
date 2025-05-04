@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=%23ffdf76)
 ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
 ![Djangp-REST](https://img.shields.io/badge/Django-REST-A30000?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009485?style=for-the-badge&logo=fastapi&logoColor=%23FFFFFF)
 ![Flask](https://img.shields.io/badge/flask-87CEFA?style=for-the-badge&logo=flask&logoColor=000000)
 ![Scrapy](https://img.shields.io/badge/scrapy-60a839?style=for-the-badge&logo=scrapy&logoColor=white)
 
