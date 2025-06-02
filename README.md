@@ -1,6 +1,6 @@
 ## Hi there, I'm Alex 👋
 
-I'm a backend developer🖥️ with an engineering background ⚙️. My primary tool of choice is Python 🐍.
+DevOps engineer by day ⚙️, Python backend developer by hobby 🐍.
 <!--
 **Alexshifter/alexshifter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
